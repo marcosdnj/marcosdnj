@@ -1,5 +1,5 @@
 ### Olá 😃
-<img src="img-github.svg">
+<img max-width="80%" align="right" src="img-github.svg">
 
 
 <!--
