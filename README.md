@@ -1,5 +1,14 @@
-### Olá 😃
-<img max-width="80%" align="right" src="img-github.svg">
+<h1 align="center">Bem-vindo</h1>
+
+<div align="left" >
+    <img margin-top="0" width="300px" align="right" src="img-github.svg">
+<p> &nbsp;</p>
+<p>🖥 Tecnologias: .Net, Angular, HTML/CSS/JS e MsSQL.</p>
+<p>📚 Atualmente estudo .Net & Angular.</p>
+<p>📍 São João de Meriti/RJ</p>
+ </div>
+
+
 
 
 <!--
